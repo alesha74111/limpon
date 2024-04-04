@@ -1255,6 +1255,10 @@ h1 {
 .button-up.hidden {
   opacity: 0;
 }
+.page-footer .copyright-text {
+  color: #fff;
+}
+
 /*MEDIA*/
 @media (max-width: 1500px) {
   .screen-img {
